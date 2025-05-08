@@ -3,22 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\tsole\\My project (5)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|c:\\users\\tsole\\my project (5)\\assets\\scripts\\portadores\\estadisticas\\estadistica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\portadores\\estadisticas\\estadistica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|C:\\Users\\tsole\\My project (5)\\assets\\scripts\\portadores\\estadisticas\\sistemavida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\portadores\\estadisticas\\sistemavida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|c:\\users\\tsole\\my project (5)\\assets\\scripts\\habilidades\\habilidadproyectil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\habilidades\\habilidadproyectil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|C:\\Users\\tsole\\My project (5)\\assets\\scripts\\habilidades\\proyectil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\habilidades\\proyectil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|C:\\Users\\tsole\\My project (5)\\assets\\scripts\\portadores\\agentevida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\portadores\\agentevida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,12 +11,52 @@
       "RelativeMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\portadores\\agentemana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|c:\\users\\tsole\\my project (5)\\assets\\scripts\\habilidades\\iconsumidorderecurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\habilidades\\iconsumidorderecurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|C:\\Users\\tsole\\My project (5)\\assets\\scripts\\portadores\\agente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\portadores\\agente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|C:\\Users\\tsole\\My project (5)\\assets\\scripts\\portadores\\portador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\portadores\\portador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|C:\\Users\\tsole\\My project (5)\\assets\\scripts\\habilidades\\sistemahabilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\habilidades\\sistemahabilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|C:\\Users\\tsole\\My project (5)\\assets\\scripts\\portadores\\estadisticas\\sistemamana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\portadores\\estadisticas\\sistemamana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|c:\\users\\tsole\\my project (5)\\assets\\scripts\\portadores\\estadisticas\\sistemavida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\portadores\\estadisticas\\sistemavida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|C:\\Users\\tsole\\My project (5)\\assets\\scripts\\habilidades\\habilidadproyectil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\habilidades\\habilidadproyectil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|C:\\Users\\tsole\\My project (5)\\assets\\scripts\\habilidades\\proyectil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\habilidades\\proyectil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|c:\\users\\tsole\\my project (5)\\assets\\scripts\\habilidades\\habilidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\habilidades\\habilidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|C:\\Users\\tsole\\My project (5)\\assets\\scripts\\habilidades\\habilidadevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\habilidades\\habilidadevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|C:\\Users\\tsole\\My project (5)\\assets\\scripts\\portadores\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\portadores\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|C:\\Users\\tsole\\My project (5)\\assets\\scripts\\portadores\\estadisticas\\estadistica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\portadores\\estadisticas\\estadistica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,24 +66,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Estadistica.cs",
-              "DocumentMoniker": "C:\\Users\\tsole\\My project (5)\\Assets\\Scripts\\Portadores\\Estadisticas\\Estadistica.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Portadores\\Estadisticas\\Estadistica.cs",
-              "ToolTip": "C:\\Users\\tsole\\My project (5)\\Assets\\Scripts\\Portadores\\Estadisticas\\Estadistica.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Portadores\\Estadisticas\\Estadistica.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAA4wCoAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "Habilidad.cs",
+              "DocumentMoniker": "C:\\Users\\tsole\\My project (5)\\Assets\\Scripts\\Habilidades\\Habilidad.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Habilidades\\Habilidad.cs",
+              "ToolTip": "C:\\Users\\tsole\\My project (5)\\Assets\\Scripts\\Habilidades\\Habilidad.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Habilidades\\Habilidad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T06:01:46.965Z",
+              "WhenOpened": "2025-05-08T06:44:12.546Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "IConsumidorDeRecurso.cs",
+              "DocumentMoniker": "C:\\Users\\tsole\\My project (5)\\Assets\\Scripts\\Habilidades\\IConsumidorDeRecurso.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Habilidades\\IConsumidorDeRecurso.cs",
+              "ToolTip": "C:\\Users\\tsole\\My project (5)\\Assets\\Scripts\\Habilidades\\IConsumidorDeRecurso.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Habilidades\\IConsumidorDeRecurso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T06:40:30.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SistemaHabilidades.cs",
+              "DocumentMoniker": "C:\\Users\\tsole\\My project (5)\\Assets\\Scripts\\Habilidades\\SistemaHabilidades.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Habilidades\\SistemaHabilidades.cs",
+              "ToolTip": "C:\\Users\\tsole\\My project (5)\\Assets\\Scripts\\Habilidades\\SistemaHabilidades.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Habilidades\\SistemaHabilidades.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T03:52:20.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "HabilidadProyectil.cs",
               "DocumentMoniker": "C:\\Users\\tsole\\My project (5)\\Assets\\Scripts\\Habilidades\\HabilidadProyectil.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Habilidades\\HabilidadProyectil.cs",
@@ -72,32 +122,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "Proyectil.cs",
               "DocumentMoniker": "C:\\Users\\tsole\\My project (5)\\Assets\\Scripts\\Habilidades\\Proyectil.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Habilidades\\Proyectil.cs",
               "ToolTip": "C:\\Users\\tsole\\My project (5)\\Assets\\Scripts\\Habilidades\\Proyectil.cs",
               "RelativeToolTip": "Assets\\Scripts\\Habilidades\\Proyectil.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAA5wCYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-05T05:49:11.266Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "Agente.cs",
               "DocumentMoniker": "C:\\Users\\tsole\\My project (5)\\Assets\\Scripts\\Portadores\\Agente.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Portadores\\Agente.cs",
               "ToolTip": "C:\\Users\\tsole\\My project (5)\\Assets\\Scripts\\Portadores\\Agente.cs",
               "RelativeToolTip": "Assets\\Scripts\\Portadores\\Agente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T04:22:40.747Z"
+              "WhenOpened": "2025-05-05T04:22:40.747Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "AgenteMana.cs",
               "DocumentMoniker": "C:\\Users\\tsole\\My project (5)\\Assets\\Scripts\\Portadores\\AgenteMana.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Portadores\\AgenteMana.cs",
@@ -105,44 +156,96 @@
               "RelativeToolTip": "Assets\\Scripts\\Portadores\\AgenteMana.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T04:14:04.555Z"
+              "WhenOpened": "2025-05-05T04:14:04.555Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "Portador.cs",
               "DocumentMoniker": "C:\\Users\\tsole\\My project (5)\\Assets\\Scripts\\Portadores\\Portador.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Portadores\\Portador.cs",
               "ToolTip": "C:\\Users\\tsole\\My project (5)\\Assets\\Scripts\\Portadores\\Portador.cs",
               "RelativeToolTip": "Assets\\Scripts\\Portadores\\Portador.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T04:13:21.83Z"
+              "WhenOpened": "2025-05-05T04:13:21.83Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "SistemaVida.cs",
               "DocumentMoniker": "C:\\Users\\tsole\\My project (5)\\Assets\\Scripts\\Portadores\\Estadisticas\\SistemaVida.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Portadores\\Estadisticas\\SistemaVida.cs",
               "ToolTip": "C:\\Users\\tsole\\My project (5)\\Assets\\Scripts\\Portadores\\Estadisticas\\SistemaVida.cs",
               "RelativeToolTip": "Assets\\Scripts\\Portadores\\Estadisticas\\SistemaVida.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAADwvxoAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-05T04:12:40.996Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
+              "Title": "SistemaMana.cs",
+              "DocumentMoniker": "C:\\Users\\tsole\\My project (5)\\Assets\\Scripts\\Portadores\\Estadisticas\\SistemaMana.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Portadores\\Estadisticas\\SistemaMana.cs",
+              "ToolTip": "C:\\Users\\tsole\\My project (5)\\Assets\\Scripts\\Portadores\\Estadisticas\\SistemaMana.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Portadores\\Estadisticas\\SistemaMana.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T03:51:46.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "AgenteVida.cs",
               "DocumentMoniker": "C:\\Users\\tsole\\My project (5)\\Assets\\Scripts\\Portadores\\AgenteVida.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Portadores\\AgenteVida.cs",
               "ToolTip": "C:\\Users\\tsole\\My project (5)\\Assets\\Scripts\\Portadores\\AgenteVida.cs",
               "RelativeToolTip": "Assets\\Scripts\\Portadores\\AgenteVida.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAiwB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T06:20:10.966Z"
+              "WhenOpened": "2025-05-02T06:20:10.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Estadistica.cs",
+              "DocumentMoniker": "C:\\Users\\tsole\\My project (5)\\Assets\\Scripts\\Portadores\\Estadisticas\\Estadistica.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Portadores\\Estadisticas\\Estadistica.cs",
+              "ToolTip": "C:\\Users\\tsole\\My project (5)\\Assets\\Scripts\\Portadores\\Estadisticas\\Estadistica.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Portadores\\Estadisticas\\Estadistica.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAcwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T06:01:46.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EnemySpawner.cs",
+              "DocumentMoniker": "C:\\Users\\tsole\\My project (5)\\Assets\\Scripts\\Portadores\\EnemySpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Portadores\\EnemySpawner.cs",
+              "ToolTip": "C:\\Users\\tsole\\My project (5)\\Assets\\Scripts\\Portadores\\EnemySpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Portadores\\EnemySpawner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T03:42:06.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HabilidadEvents.cs",
+              "DocumentMoniker": "C:\\Users\\tsole\\My project (5)\\Assets\\Scripts\\Habilidades\\HabilidadEvents.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Habilidades\\HabilidadEvents.cs",
+              "ToolTip": "C:\\Users\\tsole\\My project (5)\\Assets\\Scripts\\Habilidades\\HabilidadEvents.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Habilidades\\HabilidadEvents.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T06:03:56.967Z"
             }
           ]
         }

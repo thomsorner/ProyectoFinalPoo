@@ -1,12 +1,17 @@
-using UnityEngine;
+ï»¿using UnityEngine;
 
-public class AgenteVida : Agente
+public class AgenteVida : Agente, IConsumidorDeRecurso
 {
     [SerializeField] private SistemaVida sistemaVida;
 
-    void Awake()
+    // âœ… Propiedad pÃºblica de solo lectura para acceder desde SistemaHabilidades
+    public SistemaVida SistemaVida => sistemaVida;
+
+    protected override void Awake()
     {
-        // Si no lo arrastras en el Inspector, lo busca automáticamente
+        base.Awake(); // Llama al Awake de Agente y Portador
+
+        // Si no se asigna manualmente, lo busca en el GameObject
         if (sistemaVida == null)
             sistemaVida = GetComponent<SistemaVida>();
     }
@@ -16,7 +21,11 @@ public class AgenteVida : Agente
     /// </summary>
     public override void CobrarHabilidad(int costo)
     {
-        sistemaVida.Dañar(costo);
-        Debug.Log($"[AgenteVida] Cobró {costo} de vida. Vida restante: {sistemaVida.getValorActual()}");
+        sistemaVida.DaÃ±ar(costo);
+        Debug.Log($"[AgenteVida] Cobro {costo} de vida. Vida restante: {sistemaVida.getValorActual()}");
+    }
+    public bool TieneRecursoSuficiente(int costo)
+    {
+        return sistemaVida.getValorActual() >= costo;
     }
 }

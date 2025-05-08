@@ -1,27 +1,26 @@
-using UnityEngine;
+ï»¿using UnityEngine;
 
 public class SistemaHabilidades : MonoBehaviour
 {
     [Header("Lista de Habilidades")]
-    [SerializeField] private Habilidad[] habilidades;  // Lista de habilidades asignadas desde el Inspector
+    [SerializeField] private Habilidad[] habilidades;
 
-    // Método para ejecutar una habilidad
     public void EjecutarHabilidad(int index, Agente agente)
     {
-        // Verificamos si el índice de habilidad es válido
         if (index >= 0 && index < habilidades.Length)
         {
-            // Ejecutamos el efecto de la habilidad
-            habilidades[index].Efecto(agente);
+            Habilidad habilidad = habilidades[index];
+            habilidad.Efecto(agente);
 
-            // Luego de ejecutar el efecto, cobramos el costo de la habilidad
-            agente.CobrarHabilidad(habilidades[index].Costo);
+            // ğŸ”¥ Disparar el evento
+            Debug.Log($"[Evento] Lanzando evento de habilidad. Costo: {habilidad.Costo}, Portador: {agente.name}");
+            HabilidadEvents.OnHabilidadUsada?.Invoke(agente, habilidad.Costo);
 
-            Debug.Log($"Habilidad ejecutada: {habilidades[index].Descripcion}");
+            Debug.Log($"Habilidad ejecutada: {habilidad.Descripcion}");
         }
         else
         {
-            Debug.LogWarning("Índice de habilidad inválido.");
+            Debug.LogWarning("Ãndice de habilidad invÃ¡lido.");
         }
     }
 }

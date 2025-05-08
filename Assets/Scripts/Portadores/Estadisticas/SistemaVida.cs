@@ -2,9 +2,27 @@ using UnityEngine;
 
 public class SistemaVida : Estadistica
 {
-    /// <summary>
-    /// Aumenta la vida actual sin pasar del valor máximo.
-    /// </summary>
+    private AgenteVida _agenteVida;
+
+    private void OnEnable()
+    {
+        _agenteVida = GetComponent<AgenteVida>();
+        if (_agenteVida != null)
+            HabilidadEvents.OnHabilidadUsada += ManejarHabilidadUsada;
+    }
+
+    private void OnDisable()
+    {
+        if (_agenteVida != null)
+            HabilidadEvents.OnHabilidadUsada -= ManejarHabilidadUsada;
+    }
+
+    private void ManejarHabilidadUsada(Portador portador, int costo)
+    {
+        if (portador.gameObject == gameObject)
+            Dañar(costo);
+    }
+
     public void Curar(int cantidad)
     {
         int nuevo = Mathf.Min(getValorActual() + cantidad, getValorMaximo());
@@ -12,23 +30,15 @@ public class SistemaVida : Estadistica
         Debug.Log($"[Vida] Curado {cantidad}. Vida actual: {getValorActual()}");
     }
 
-    /// <summary>
-    /// Disminuye la vida actual sin bajar del valor mínimo.
-    /// </summary>
     public void Dañar(int cantidad)
     {
-        int nuevo = Mathf.Max(getValorActual() - cantidad, 0); // permite llegar a 0
+        int nuevo = Mathf.Max(getValorActual() - cantidad, getValorMinimo());
         setValorActual(nuevo);
         Debug.Log($"[Vida] Dañado {cantidad}. Vida actual: {getValorActual()}");
-    }
 
-    void Update()
-    {
-        base.Update(); // mantiene regeneración de Estadistica
-
-        if (getValorActual() <= 0)
+        if (getValorActual() <= getValorMinimo())
         {
-            Debug.Log($"[Vida] {gameObject.name} ha muerto.");
+            Debug.Log($"{gameObject.name} ha muerto.");
             Destroy(gameObject);
         }
     }

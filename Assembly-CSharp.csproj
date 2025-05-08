@@ -62,11 +62,14 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\Player Related\Camera\PlayerCam.cs" />
+    <Compile Include="Assets\Scripts\Portadores\EnemySpawner.cs" />
     <Compile Include="Assets\Scripts\Portadores\AgenteVida.cs" />
     <Compile Include="Assets\Scripts\Player Related\InputManager.cs" />
     <Compile Include="Assets\Scripts\Portadores\Estadisticas\SistemaMana.cs" />
     <Compile Include="Assets\Scripts\Portadores\Estadisticas\Estadistica.cs" />
     <Compile Include="Assets\Scripts\Portadores\Estadisticas\SistemaVida.cs" />
+    <Compile Include="Assets\Scripts\Habilidades\HabilidadEvents.cs" />
+    <Compile Include="Assets\Scripts\Habilidades\IConsumidorDeRecurso.cs" />
     <Compile Include="Assets\Scripts\Portadores\Portador.cs" />
     <Compile Include="Assets\Scripts\Habilidades\Habilidad.cs" />
     <Compile Include="Assets\Scripts\Habilidades\SistemaHabilidades.cs" />

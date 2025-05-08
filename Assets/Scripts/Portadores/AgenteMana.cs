@@ -1,12 +1,15 @@
 using UnityEngine;
 
-public class AgenteMana : Agente
+public class AgenteMana : Agente, IConsumidorDeRecurso
 {
     [SerializeField] private SistemaMana sistemaMana;
 
+    // Propiedad pública de solo lectura
+    public SistemaMana SistemaMana => sistemaMana;
+
     protected override void Awake()
     {
-        base.Awake();  // Esto es CLAVE para que el Awake de Agente (y a su vez Portador) se ejecute
+        base.Awake();
 
         if (sistemaMana == null)
             sistemaMana = GetComponent<SistemaMana>();
@@ -16,5 +19,9 @@ public class AgenteMana : Agente
     {
         sistemaMana.Gastar(costo);
         Debug.Log($"[AgenteMana] Cobró {costo} de maná. Maná restante: {sistemaMana.getValorActual()}");
+    }
+    public bool TieneRecursoSuficiente(int costo)
+    {
+        return sistemaMana.getValorActual() >= costo;
     }
 }
