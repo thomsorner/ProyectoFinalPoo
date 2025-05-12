@@ -1,8 +1,9 @@
-using UnityEngine;
+ï»¿using UnityEngine;
 
 public class SistemaVida : Estadistica
 {
     private AgenteVida _agenteVida;
+    private GameObject barraVidaGO;
 
     private void OnEnable()
     {
@@ -17,10 +18,18 @@ public class SistemaVida : Estadistica
             HabilidadEvents.OnHabilidadUsada -= ManejarHabilidadUsada;
     }
 
+    /// <summary>
+    /// Permite asignar una barra de vida visual al sistema.
+    /// </summary>
+    public void AsignarBarraVida(GameObject barra)
+    {
+        barraVidaGO = barra;
+    }
+
     private void ManejarHabilidadUsada(Portador portador, int costo)
     {
         if (portador.gameObject == gameObject)
-            Dañar(costo);
+            DaÃ±ar(costo);
     }
 
     public void Curar(int cantidad)
@@ -30,15 +39,20 @@ public class SistemaVida : Estadistica
         Debug.Log($"[Vida] Curado {cantidad}. Vida actual: {getValorActual()}");
     }
 
-    public void Dañar(int cantidad)
+    public void DaÃ±ar(int cantidad)
     {
         int nuevo = Mathf.Max(getValorActual() - cantidad, getValorMinimo());
         setValorActual(nuevo);
-        Debug.Log($"[Vida] Dañado {cantidad}. Vida actual: {getValorActual()}");
+        Debug.Log($"[Vida] DaÃ±ado {cantidad}. Vida actual: {getValorActual()}");
 
         if (getValorActual() <= getValorMinimo())
         {
             Debug.Log($"{gameObject.name} ha muerto.");
+
+            // âœ… Eliminar la barra si fue asignada
+            if (barraVidaGO != null)
+                Destroy(barraVidaGO);
+
             Destroy(gameObject);
         }
     }

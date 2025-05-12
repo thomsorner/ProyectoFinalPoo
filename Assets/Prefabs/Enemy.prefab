@@ -14,6 +14,8 @@ GameObject:
   - component: {fileID: 3788617521400630656}
   - component: {fileID: 8510615386326507831}
   - component: {fileID: 2608470435371534163}
+  - component: {fileID: 734920175130559993}
+  - component: {fileID: 6236969189493097880}
   m_Layer: 0
   m_Name: Enemy
   m_TagString: Untagged
@@ -140,3 +142,43 @@ MonoBehaviour:
   _valorMaximo: 100
   _valorActual: 100
   _valorMinimo: 1
+--- !u!114 &734920175130559993
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2387066955024498574}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e9d6ebba8756934d81329b8beb7dc15, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  prefabBarraVida: {fileID: 5372908594602394272, guid: 630c32858550f97469219499df41808c, type: 3}
+--- !u!54 &6236969189493097880
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2387066955024498574}
+  serializedVersion: 4
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_CenterOfMass: {x: 0, y: 0, z: 0}
+  m_InertiaTensor: {x: 1, y: 1, z: 1}
+  m_InertiaRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ImplicitCom: 1
+  m_ImplicitTensor: 1
+  m_UseGravity: 1
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0

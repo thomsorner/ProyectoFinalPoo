@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Proyectil
   m_EditorClassIdentifier: 
   _descripcion: 
-  _cooldown: 10
+  _cooldown: 2
   _costo: 30
   prefabProyectil: {fileID: 8965660844845557679, guid: aa5f2d1ee86610549bd49147b24d5a06, type: 3}
   velocidad: 10

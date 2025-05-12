@@ -399,12 +399,17 @@
 -analyzer:"C:/Program Files/Unity/Hub/Editor/6000.0.34f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/6000.0.34f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/6000.0.34f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll"
+"Assets/Scripts/Entorno/ZonaDeDaño.cs"
+"Assets/Scripts/Entorno/ZonaRecargaMana.cs"
 "Assets/Scripts/Habilidades/Habilidad.cs"
+"Assets/Scripts/Habilidades/HabilidadCurar.cs"
 "Assets/Scripts/Habilidades/HabilidadEvents.cs"
 "Assets/Scripts/Habilidades/HabilidadProyectil.cs"
+"Assets/Scripts/Habilidades/HabilidadZonaDeDaño.cs"
 "Assets/Scripts/Habilidades/IConsumidorDeRecurso.cs"
 "Assets/Scripts/Habilidades/Proyectil.cs"
 "Assets/Scripts/Habilidades/SistemaHabilidades.cs"
+"Assets/Scripts/Habilidades/ZonaDeDañoHabilidad.cs"
 "Assets/Scripts/Player Related/Camera/PlayerCam.cs"
 "Assets/Scripts/Player Related/InputManager.cs"
 "Assets/Scripts/Player Related/Movement/PlayerMovement.cs"
@@ -416,6 +421,10 @@
 "Assets/Scripts/Portadores/Estadisticas/SistemaMana.cs"
 "Assets/Scripts/Portadores/Estadisticas/SistemaVida.cs"
 "Assets/Scripts/Portadores/Portador.cs"
+"Assets/Scripts/UI/BarraVida.cs"
+"Assets/Scripts/UI/SpawnBarraVida.cs"
+"Assets/Scripts/UI/UIBarraEstadistica.cs"
+"Assets/Scripts/UI/UIHUDPlayer.cs"
 -langversion:9.0
 /deterministic
 /optimize+
