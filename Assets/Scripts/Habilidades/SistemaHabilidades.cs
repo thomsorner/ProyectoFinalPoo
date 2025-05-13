@@ -44,6 +44,9 @@ public class SistemaHabilidades : MonoBehaviour
             // Registrar el tiempo de uso para controlar cooldown
             tiemposUltimoUso[index] = Time.time;
 
+            // 🟡 Emitir evento de cooldown para la UI
+            CooldownEvents.OnCooldownIniciado?.Invoke(index, habilidad.Cooldown);
+
             Debug.Log($"Habilidad ejecutada: {habilidad.Descripcion}");
         }
         else

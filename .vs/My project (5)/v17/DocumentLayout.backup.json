@@ -3,11 +3,27 @@
   "WorkspaceRootPath": "C:\\Users\\tsole\\My project (5)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|c:\\users\\tsole\\my project (5)\\assets\\scripts\\ui\\uibarraestadistica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|c:\\users\\tsole\\my project (5)\\assets\\scripts\\habilidades\\uicooldownmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\habilidades\\uicooldownmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|c:\\users\\tsole\\my project (5)\\assets\\scripts\\habilidades\\sistemahabilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\habilidades\\sistemahabilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|C:\\Users\\tsole\\My project (5)\\assets\\scripts\\entorno\\cooldownevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\entorno\\cooldownevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|C:\\Users\\tsole\\My project (5)\\assets\\scripts\\ui\\uihudplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\uihudplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|C:\\Users\\tsole\\My project (5)\\assets\\scripts\\ui\\uibarraestadistica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\uibarraestadistica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|c:\\users\\tsole\\my project (5)\\assets\\scripts\\ui\\spawnbarravida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|C:\\Users\\tsole\\My project (5)\\assets\\scripts\\ui\\spawnbarravida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\spawnbarravida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -37,10 +53,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|C:\\Users\\tsole\\My project (5)\\assets\\scripts\\habilidades\\habilidadcurar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\habilidades\\habilidadcurar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|C:\\Users\\tsole\\My project (5)\\assets\\scripts\\habilidades\\sistemahabilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\habilidades\\sistemahabilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{760C3C8E-4038-4128-6F13-A5C3379F636E}|Assembly-CSharp.csproj|C:\\Users\\tsole\\My project (5)\\assets\\scripts\\portadores\\agentevida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -103,19 +115,31 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UIBarraEstadistica.cs",
-              "DocumentMoniker": "C:\\Users\\tsole\\My project (5)\\Assets\\Scripts\\UI\\UIBarraEstadistica.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UIBarraEstadistica.cs",
-              "ToolTip": "C:\\Users\\tsole\\My project (5)\\Assets\\Scripts\\UI\\UIBarraEstadistica.cs",
-              "RelativeToolTip": "Assets\\Scripts\\UI\\UIBarraEstadistica.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Title": "UICooldownManager.cs",
+              "DocumentMoniker": "C:\\Users\\tsole\\My project (5)\\Assets\\Scripts\\Habilidades\\UICooldownManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Habilidades\\UICooldownManager.cs",
+              "ToolTip": "C:\\Users\\tsole\\My project (5)\\Assets\\Scripts\\Habilidades\\UICooldownManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Habilidades\\UICooldownManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T20:50:53.083Z",
+              "WhenOpened": "2025-05-13T02:20:33.123Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "CooldownEvents.cs",
+              "DocumentMoniker": "C:\\Users\\tsole\\My project (5)\\Assets\\Scripts\\Entorno\\CooldownEvents.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Entorno\\CooldownEvents.cs",
+              "ToolTip": "C:\\Users\\tsole\\My project (5)\\Assets\\Scripts\\Entorno\\CooldownEvents.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Entorno\\CooldownEvents.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T01:54:48.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "SpawnBarraVida.cs",
               "DocumentMoniker": "C:\\Users\\tsole\\My project (5)\\Assets\\Scripts\\UI\\SpawnBarraVida.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\SpawnBarraVida.cs",
@@ -123,12 +147,11 @@
               "RelativeToolTip": "Assets\\Scripts\\UI\\SpawnBarraVida.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T20:25:23.124Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T20:25:23.124Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "BarraVida.cs",
               "DocumentMoniker": "C:\\Users\\tsole\\My project (5)\\Assets\\Scripts\\UI\\BarraVida.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\BarraVida.cs",
@@ -140,7 +163,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "ZonaDeDa\u00F1oHabilidad.cs",
               "DocumentMoniker": "C:\\Users\\tsole\\My project (5)\\Assets\\Scripts\\Habilidades\\ZonaDeDa\u00F1oHabilidad.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Habilidades\\ZonaDeDa\u00F1oHabilidad.cs",
@@ -152,7 +175,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "HabilidadZonaDeDa\u00F1o.cs",
               "DocumentMoniker": "C:\\Users\\tsole\\My project (5)\\Assets\\Scripts\\Habilidades\\HabilidadZonaDeDa\u00F1o.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Habilidades\\HabilidadZonaDeDa\u00F1o.cs",
@@ -164,7 +187,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "ZonaRecargaMana.cs",
               "DocumentMoniker": "C:\\Users\\tsole\\My project (5)\\Assets\\Scripts\\Entorno\\ZonaRecargaMana.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Entorno\\ZonaRecargaMana.cs",
@@ -176,7 +199,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "ZonaDeDa\u00F1o.cs",
               "DocumentMoniker": "C:\\Users\\tsole\\My project (5)\\Assets\\Scripts\\Entorno\\ZonaDeDa\u00F1o.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Entorno\\ZonaDeDa\u00F1o.cs",
@@ -188,7 +211,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "HabilidadCurar.cs",
               "DocumentMoniker": "C:\\Users\\tsole\\My project (5)\\Assets\\Scripts\\Habilidades\\HabilidadCurar.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Habilidades\\HabilidadCurar.cs",
@@ -200,7 +223,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 1,
+              "Title": "SistemaHabilidades.cs",
+              "DocumentMoniker": "C:\\Users\\tsole\\My project (5)\\Assets\\Scripts\\Habilidades\\SistemaHabilidades.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Habilidades\\SistemaHabilidades.cs",
+              "ToolTip": "C:\\Users\\tsole\\My project (5)\\Assets\\Scripts\\Habilidades\\SistemaHabilidades.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Habilidades\\SistemaHabilidades.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAADwvzkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T03:52:20.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UIBarraEstadistica.cs",
+              "DocumentMoniker": "C:\\Users\\tsole\\My project (5)\\Assets\\Scripts\\UI\\UIBarraEstadistica.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UIBarraEstadistica.cs",
+              "ToolTip": "C:\\Users\\tsole\\My project (5)\\Assets\\Scripts\\UI\\UIBarraEstadistica.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\UIBarraEstadistica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T20:50:53.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UIHUDPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\tsole\\My project (5)\\Assets\\Scripts\\UI\\UIHUDPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UIHUDPlayer.cs",
+              "ToolTip": "C:\\Users\\tsole\\My project (5)\\Assets\\Scripts\\UI\\UIHUDPlayer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\UIHUDPlayer.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA7wCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T20:51:20.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "Habilidad.cs",
               "DocumentMoniker": "C:\\Users\\tsole\\My project (5)\\Assets\\Scripts\\Habilidades\\Habilidad.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Habilidades\\Habilidad.cs",
@@ -212,7 +272,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "IConsumidorDeRecurso.cs",
               "DocumentMoniker": "C:\\Users\\tsole\\My project (5)\\Assets\\Scripts\\Habilidades\\IConsumidorDeRecurso.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Habilidades\\IConsumidorDeRecurso.cs",
@@ -224,7 +284,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "SistemaVida.cs",
               "DocumentMoniker": "C:\\Users\\tsole\\My project (5)\\Assets\\Scripts\\Portadores\\Estadisticas\\SistemaVida.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Portadores\\Estadisticas\\SistemaVida.cs",
@@ -236,19 +296,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "SistemaHabilidades.cs",
-              "DocumentMoniker": "C:\\Users\\tsole\\My project (5)\\Assets\\Scripts\\Habilidades\\SistemaHabilidades.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Habilidades\\SistemaHabilidades.cs",
-              "ToolTip": "C:\\Users\\tsole\\My project (5)\\Assets\\Scripts\\Habilidades\\SistemaHabilidades.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Habilidades\\SistemaHabilidades.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAADwvzYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T03:52:20.407Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "HabilidadProyectil.cs",
               "DocumentMoniker": "C:\\Users\\tsole\\My project (5)\\Assets\\Scripts\\Habilidades\\HabilidadProyectil.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Habilidades\\HabilidadProyectil.cs",
@@ -260,7 +308,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "Proyectil.cs",
               "DocumentMoniker": "C:\\Users\\tsole\\My project (5)\\Assets\\Scripts\\Habilidades\\Proyectil.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Habilidades\\Proyectil.cs",
@@ -272,7 +320,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "Agente.cs",
               "DocumentMoniker": "C:\\Users\\tsole\\My project (5)\\Assets\\Scripts\\Portadores\\Agente.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Portadores\\Agente.cs",
@@ -284,7 +332,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "AgenteMana.cs",
               "DocumentMoniker": "C:\\Users\\tsole\\My project (5)\\Assets\\Scripts\\Portadores\\AgenteMana.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Portadores\\AgenteMana.cs",
@@ -296,7 +344,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "Portador.cs",
               "DocumentMoniker": "C:\\Users\\tsole\\My project (5)\\Assets\\Scripts\\Portadores\\Portador.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Portadores\\Portador.cs",
@@ -308,7 +356,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "SistemaMana.cs",
               "DocumentMoniker": "C:\\Users\\tsole\\My project (5)\\Assets\\Scripts\\Portadores\\Estadisticas\\SistemaMana.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Portadores\\Estadisticas\\SistemaMana.cs",
@@ -320,7 +368,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "AgenteVida.cs",
               "DocumentMoniker": "C:\\Users\\tsole\\My project (5)\\Assets\\Scripts\\Portadores\\AgenteVida.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Portadores\\AgenteVida.cs",
@@ -332,7 +380,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 24,
               "Title": "Estadistica.cs",
               "DocumentMoniker": "C:\\Users\\tsole\\My project (5)\\Assets\\Scripts\\Portadores\\Estadisticas\\Estadistica.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Portadores\\Estadisticas\\Estadistica.cs",
@@ -344,7 +392,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "EnemySpawner.cs",
               "DocumentMoniker": "C:\\Users\\tsole\\My project (5)\\Assets\\Scripts\\Portadores\\EnemySpawner.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Portadores\\EnemySpawner.cs",
@@ -356,7 +404,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "HabilidadEvents.cs",
               "DocumentMoniker": "C:\\Users\\tsole\\My project (5)\\Assets\\Scripts\\Habilidades\\HabilidadEvents.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Habilidades\\HabilidadEvents.cs",

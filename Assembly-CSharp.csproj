@@ -65,8 +65,10 @@
     <Compile Include="Assets\Scripts\Player Related\Camera\PlayerCam.cs" />
     <Compile Include="Assets\Scripts\Habilidades\ZonaDeDañoHabilidad.cs" />
     <Compile Include="Assets\Scripts\Portadores\EnemySpawner.cs" />
+    <Compile Include="Assets\Scripts\UI\UICooldownManager.cs" />
     <Compile Include="Assets\Scripts\Portadores\AgenteVida.cs" />
     <Compile Include="Assets\Scripts\Player Related\InputManager.cs" />
+    <Compile Include="Assets\Scripts\Entorno\CooldownEvents.cs" />
     <Compile Include="Assets\Scripts\Portadores\Estadisticas\SistemaMana.cs" />
     <Compile Include="Assets\Scripts\Entorno\ZonaRecargaMana.cs" />
     <Compile Include="Assets\Scripts\Portadores\Estadisticas\Estadistica.cs" />
