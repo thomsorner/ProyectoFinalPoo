@@ -28,9 +28,12 @@ public class SistemaVida : Estadistica
 
     private void ManejarHabilidadUsada(Portador portador, int costo)
     {
-        if (portador.gameObject == gameObject)
-            Dañar(costo);
+        if (portador.gameObject == gameObject && _agenteVida != null && _agenteVida.enabled)
+        {
+            Dañar(costo); // solo cobra si el agente de vida está activo
+        }
     }
+
 
     public void Curar(int cantidad)
     {

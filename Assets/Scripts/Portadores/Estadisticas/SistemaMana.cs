@@ -4,6 +4,8 @@ public class SistemaMana : Estadistica
 {
     private AgenteMana _agenteMana;
 
+    [SerializeField] private TipoRecargaMana tipoRecarga = TipoRecargaMana.Progresiva;
+
     private void OnEnable()
     {
         _agenteMana = GetComponent<AgenteMana>();
@@ -19,9 +21,12 @@ public class SistemaMana : Estadistica
 
     private void ManejarHabilidadUsada(Portador portador, int costo)
     {
-        if (portador.gameObject == gameObject)
-            Gastar(costo);
+        if (portador.gameObject == gameObject && _agenteMana != null && _agenteMana.enabled)
+        {
+            Gastar(costo); // solo si el agente mana está activo
+        }
     }
+
 
     public void Recuperar(int cantidad)
     {
@@ -35,5 +40,19 @@ public class SistemaMana : Estadistica
         int nuevo = Mathf.Max(getValorActual() - cantidad, getValorMinimo());
         setValorActual(nuevo);
         Debug.Log($"[Maná] Gastado {cantidad}. Maná actual: {getValorActual()}");
+    }
+
+    public override void Update()
+    {
+        if (tipoRecarga == TipoRecargaMana.Progresiva && getValorActual() < getValorMaximo())
+        {
+            _tiempoAcumulado += Time.deltaTime;
+
+            if (_tiempoAcumulado >= _intervaloRegeneracion)
+            {
+                Recuperar(1);
+                _tiempoAcumulado = 0f;
+            }
+        }
     }
 }
